@@ -14,6 +14,6 @@ namespace OLEG_
         private bool Sex { get; set; }
         private string EMail { get; set; }
         private string PasswordHash { get; set; }
-
+        private string NickName { get; set; }
     }
 }
