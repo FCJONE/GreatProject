@@ -13,6 +13,7 @@ namespace OLEG_
         private string MidName { get; set; }
         private bool Sex { get; set; }
         private string EMail { get; set; }
-        private string Hash { get; set; }
+        private string PasswordHash { get; set; }
+
     }
 }
